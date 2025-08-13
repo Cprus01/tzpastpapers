@@ -1,0 +1,4 @@
+function searchPapers() {
+    let query = document.getElementById("searchBox").value;
+    alert("Searching for: " + query);
+}
